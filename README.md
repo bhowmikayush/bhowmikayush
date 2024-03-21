@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhowmikayush
-- 👀 I’m interested in web ml
+- 👀 I’m interested in ml
 - 🌱 I’m currently learning dsa
 
 <!---
